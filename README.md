@@ -1,2 +1,2 @@
 # Assembly-Projects
-Assembly Language programs that demonstrate language and computer system fundamentals
+these programs demonstrate assembly language fundamentals
