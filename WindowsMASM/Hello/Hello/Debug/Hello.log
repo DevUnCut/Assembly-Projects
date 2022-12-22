@@ -1,0 +1,5 @@
+﻿S:\Program Files (x86)\Microsoft Visual Studio Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hello.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling main.asm...
+main.asm(79): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(79): warning A6004: procedure argument or local not referenced : CmdLine
+  Hello.vcxproj -> C:\Users\johnathan\source\repos\ASM\Hello\Debug\HelloWindow.exe

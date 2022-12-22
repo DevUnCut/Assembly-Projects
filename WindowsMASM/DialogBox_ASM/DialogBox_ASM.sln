@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DialogBox_ASM", "DialogBox_ASM\DialogBox_ASM.vcxproj", "{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Debug|x64.ActiveCfg = Debug|x64
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Debug|x64.Build.0 = Debug|x64
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Debug|x86.Build.0 = Debug|Win32
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Release|x64.ActiveCfg = Release|x64
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Release|x64.Build.0 = Release|x64
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Release|x86.ActiveCfg = Release|Win32
+		{54CE75B7-05D2-4E1E-87F7-A64F4AA654DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4FE370F-51BA-4F90-9F7A-74FA635230B8}
+	EndGlobalSection
+EndGlobal
