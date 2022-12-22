@@ -1,0 +1,8 @@
+﻿  Assembling C:\Users\johnathan\Desktop\main.asm...
+C:\Users\johnathan\Desktop\main.asm(1): error A2008: syntax error : .
+C:\Users\johnathan\Desktop\main.asm(2): error A2008: syntax error : .
+C:\Users\johnathan\Desktop\main.asm(80): error A2070: invalid instruction operands
+C:\Users\johnathan\Desktop\main.asm(83): error A2070: invalid instruction operands
+C:\Users\johnathan\Desktop\main.asm(87): error A2008: syntax error : MessageBoxW
+C:\Users\johnathan\Desktop\main.asm(91): error A2008: syntax error : main
+S:\Program Files (x86)\Microsoft Visual Studio Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /TaC:\Users\johnathan\Desktop\main.asm" exited with code 1.

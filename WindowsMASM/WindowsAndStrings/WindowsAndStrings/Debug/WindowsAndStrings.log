@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(104): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(104): warning A6004: procedure argument or local not referenced : CmdLine
+  WindowsAndStrings.vcxproj -> S:\ASM\WindowsAndStrings\Debug\WindowsAndStrings.exe
