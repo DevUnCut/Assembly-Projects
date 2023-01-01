@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(78): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(78): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(78): warning A6004: procedure argument or local not referenced : CmdShow
+  Menus.vcxproj -> S:\ASM\Menus\Debug\Menus.exe

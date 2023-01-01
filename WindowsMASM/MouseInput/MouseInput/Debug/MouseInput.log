@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(87): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(87): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(87): warning A6004: procedure argument or local not referenced : CmdShow
+main.asm(154): warning A6004: procedure argument or local not referenced : box
+  MouseInput.vcxproj -> S:\ASM\MouseInput\Debug\MouseInput.exe
