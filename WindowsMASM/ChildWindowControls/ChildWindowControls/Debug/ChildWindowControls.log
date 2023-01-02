@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(113): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(113): warning A6004: procedure argument or local not referenced : CmdLine
+  ChildWindowControls.vcxproj -> S:\ASM\ChildWindowControls\Debug\ChildWindowControls.exe
