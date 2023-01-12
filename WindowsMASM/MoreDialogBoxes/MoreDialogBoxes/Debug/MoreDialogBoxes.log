@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(125): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(125): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(125): warning A6004: procedure argument or local not referenced : CmdShow
+  MoreDialogBoxes.vcxproj -> S:\ASM\MoreDialogBoxes\Debug\MoreDialogBoxes.exe
