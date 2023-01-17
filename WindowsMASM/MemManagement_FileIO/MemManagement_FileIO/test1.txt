@@ -1,0 +1,3 @@
+For testing purposes can we add text to this ?
+This only works if we write a new file .... :<
+This has to be because of the flags used with the CreateFileW call in the IDM_SAVE section in the code !
