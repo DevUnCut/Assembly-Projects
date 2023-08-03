@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(99): warning A6004: procedure argument or local not referenced : hPrevInstance
+main.asm(99): warning A6004: procedure argument or local not referenced : pCmdLine
+main.asm(99): warning A6004: procedure argument or local not referenced : nCmdShow
+  Whats_A_Process.vcxproj -> C:\Users\johnathan\source\repos\Whats_A_Process\Debug\Whats_A_Process.exe
