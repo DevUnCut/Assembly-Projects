@@ -1,6 +1,6 @@
 ;	This program demontrats what exactly a Process is and does ....
 ;	we will create a new process when the user selects the "create process" menu item. 
-;	we'll attempt to execute "msgbox.exe".
+;	we'll attempt to execute "MoreStrings.exe".
 ;
 ;	If the user wants to terminate the new process, they can select the "terminate process" menu item.
 ;	The program will check first if the new process is already destroyed,
