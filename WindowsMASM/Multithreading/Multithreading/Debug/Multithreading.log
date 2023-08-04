@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(103): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(103): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(115): warning A6004: procedure argument or local not referenced : Param
+  Multithreading.vcxproj -> C:\Users\johnathan\source\repos\Multithreading\Debug\Multithreading.exe

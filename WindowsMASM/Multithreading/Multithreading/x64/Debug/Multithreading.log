@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: unresolved external symbol mainCRTStartup
+C:\Users\johnathan\source\repos\Multithreading\x64\Debug\Multithreading.exe : fatal error LNK1120: 1 unresolved externals
