@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(107): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(107): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(142): warning A6004: procedure argument or local not referenced : Param
+  EventObjects.vcxproj -> C:\Users\johnathan\source\repos\EventObjects\Debug\EventObjects.exe
