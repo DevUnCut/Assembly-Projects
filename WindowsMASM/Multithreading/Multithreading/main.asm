@@ -1,6 +1,10 @@
 ; Let try a multithreaded aproach for an
 ; a program that adds the eax register to itself
-; 600,000,000 times and notice just how much more beneficial it is!
+; 600,000,000 times and notice just how much more beneficial it is !
+;
+; THIS IMPLEMENTATION MAKES USE OF WINDOWS MESSAGES TO ESTABLISH
+; COMMUNICATION BETWEEN THREADS, VIEW EventObjects PROJECT TO SEE
+; AN IMPLEMENTATION USING Global Variables & Event Objects ! ! !
 .386
 .model flat, stdcall
 option casemap:none
