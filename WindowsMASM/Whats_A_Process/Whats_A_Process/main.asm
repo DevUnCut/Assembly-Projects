@@ -5,6 +5,10 @@
 ;	If the user wants to terminate the new process, they can select the "terminate process" menu item.
 ;	The program will check first if the new process is already destroyed,
 ;	if it is not, the program  will call TerminateProcess function to destroy the new process.
+;
+;   THIS IMPLEMENTATION USES A SINGLE THREAD (THE USER INTERFACE THREAD)
+;   VIEW THE Multithreading PROJECT TO SEE AN IMPLEMENTATION USING
+;   WINDOWS MESSAGES ! !
 .386
 .model flat, stdcall
 option casemap:none
