@@ -1,0 +1,11 @@
+﻿  Assembling DLL_Skeleton.asm...
+DLL_Skeleton.asm(60): warning A6004: procedure argument or local not referenced : hInstDLL
+DLL_Skeleton.asm(60): warning A6004: procedure argument or local not referenced : reserved1
+  Assembling main.asm...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1389,5): warning MSB8012: TargetPath(C:\Users\johnathan\source\repos\ASM\DynamicLinkLibrary\Debug\DynamicLinkLibrary.exe) does not match the Linker's OutputFile property value (C:\Users\johnathan\source\repos\ASM\DynamicLinkLibrary\DynamicLinkLibrary\DLL_Skeleton.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1390,5): warning MSB8012: TargetExt(.exe) does not match the Linker's OutputFile property value (.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetName(DynamicLinkLibrary) does not match the Linker's OutputFile property value (DLL_Skeleton). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+DLL_Skeleton.obj : warning LNK4258: directive '/ENTRY:DllEntry@12' not compatible with switch '/ENTRY:main'; ignored
+     Creating library C:\Users\johnathan\source\repos\ASM\DynamicLinkLibrary\Debug\DynamicLinkLibrary.lib and object C:\Users\johnathan\source\repos\ASM\DynamicLinkLibrary\Debug\DynamicLinkLibrary.exp
+DLL_Skeleton.dll : warning LNK4086: entrypoint '_main' is not __stdcall with 12 bytes of arguments; image may not run
+  DynamicLinkLibrary.vcxproj -> C:\Users\johnathan\source\repos\ASM\DynamicLinkLibrary\Debug\DynamicLinkLibrary.exe

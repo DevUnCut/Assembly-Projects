@@ -1,0 +1,14 @@
+; This file is the equivalant to a header file is c++
+;
+; EVERY DLL MUST HAVE AN ENTRY POINT TO THE FUNCTION ! ! !
+; WINDOWS WILL CALL THIS ENTRY POINT EVERY TIME:
+; - THE DLL IS LOADED ! !
+; - THE DLL IS UNLOADED ! !
+; - A THREAD IS CREATED USING THE SAME PROCESS ! ! !
+; - A THREAD IS DESTROYED USING THE SAME PROCESS ! ! !
+
+; like prototyping in c++ just state the function name here
+; If we want our dll functions to be callable from other programs
+; WE MUST PUT THEIR NAMES IN THE EXPORT LIST IN THIS MODULE DEFINITION FILE !
+LIBRARY DLL_Skeleton
+EXPORTS MyCustomFunction
