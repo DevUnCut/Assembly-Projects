@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(95): warning A6004: procedure argument or local not referenced : hPrevInstance
+main.asm(95): warning A6004: procedure argument or local not referenced : pCmdLine
+main.asm(95): warning A6004: procedure argument or local not referenced : nCmdShow
+main.asm(145): warning A6004: procedure argument or local not referenced : startInfo
+  CommonControls_Progressbar_Statusbar.vcxproj -> C:\Users\johnathan\source\repos\ASM\CommonControls_Progressbar_Statusbar\Debug\CommonControls_Progressbar_Statusbar.exe
