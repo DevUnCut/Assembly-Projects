@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(87): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(87): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(87): warning A6004: procedure argument or local not referenced : CmdShow
+  CommonControls.vcxproj -> C:\Users\johnathan\source\repos\ASM\CommonControls\Debug\CommonControls.exe

@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(104): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(104): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(104): warning A6004: procedure argument or local not referenced : CmdShow
+  TreeViewControls.vcxproj -> C:\Users\johnathan\source\repos\ASM\TreeViewControls\Debug\TreeViewControls.exe
