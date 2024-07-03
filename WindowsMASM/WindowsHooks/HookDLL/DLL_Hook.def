@@ -1,0 +1,5 @@
+LIBRARY DLL_Hook
+EXPORTS
+	InstallHook
+	UninstallHook
+	MouseProc
