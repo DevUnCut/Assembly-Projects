@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(92): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(92): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(92): warning A6004: procedure argument or local not referenced : CmdShow
+  WindowsBitmap.vcxproj -> C:\Users\johnathan\source\repos\ASM\WindowsBitmap\Debug\WindowsBitmap.exe
