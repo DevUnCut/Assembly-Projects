@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(82): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(82): warning A6004: procedure argument or local not referenced : CmdLine
+main.asm(82): warning A6004: procedure argument or local not referenced : CmdShow
+  SplashScreen.vcxproj -> C:\Users\johnathan\source\repos\ASM\SplashScreen\Debug\SplashScreen.exe
